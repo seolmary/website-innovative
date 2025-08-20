@@ -93,7 +93,7 @@ sections:
       slide_height: '60vh'
       interval: 4000
       loop: true
-      css_style: "max-width: 100%; margin: 0;"
+      css_style: "max-width: 1440px; margin-inline: auto;"
 
   # - block: slider
   #   content:
