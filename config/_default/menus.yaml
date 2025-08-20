@@ -6,9 +6,6 @@
 main:
   - name: Home
     url: /
-    weight: 1
-  - name: Tour
-    url: tour
     weight: 10
   - name: News
     url: news

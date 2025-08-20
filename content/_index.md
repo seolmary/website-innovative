@@ -43,6 +43,34 @@ sections:
 
   - block: markdown
     content:
+      title: "Perceptive Locomotion"
+      subtitle: ""
+      text: |
+        <div style="display: flex; justify-content: center; gap: 20px; margin: 2rem 0;">
+          <div style="text-align: center;">
+            <video width="100%" height="auto" controls autoplay muted loop preload="auto" style="max-width: 800px; border-radius: 8px;">
+              <source src="videos/perceptive_locomotion_1.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+
+  - block: markdown
+    content:
+      title: "Reinforcement Learning"
+      subtitle: ""
+      text: |
+        <div style="display: flex; justify-content: center; gap: 20px; margin: 2rem 0;">
+          <div style="text-align: center;">
+            <video width="100%" height="auto" controls autoplay muted loop preload="auto" style="max-width: 800px; border-radius: 8px;">
+              <source src="videos/rl_walk_1.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+
+  - block: markdown
+    content:
       title: ""
       subtitle: ""
       text: |
@@ -51,13 +79,13 @@ sections:
             <img src="/canine/canine1.png" alt="첫 번째 이미지" width="500" style="border-radius: 8px;">
           </div>
           <div style="text-align: center;">
-            <img src="/canine/canine3.png" alt="두 번째 이미지" width="500" style="border-radius: 8px;">
+            <img src="/lab_images/image42.png" alt="두 번째 이미지" width="500" style="border-radius: 8px;">
           </div>
           <div style="text-align: center;">
-            <img src="/canine/canine1.png" alt="세 번째 이미지" width="500" style="border-radius: 8px;">
+            <img src="/lab_images/image43.png" alt="세 번째 이미지" width="500" style="border-radius: 8px;">
           </div>
           <div style="text-align: center;">
-            <img src="/canine/canine3.png" alt="네 번째 이미지" width="500" style="border-radius: 8px;">
+            <img src="/lab_images/image33.png" alt="네 번째 이미지" width="500" style="border-radius: 8px;">
   
 
   # 첫 번째 슬라이더
