@@ -20,74 +20,70 @@ sections:
         
         The **Computer and Machine Engaged Lab** has been a center of excellence for Physical Artificial Intelligence research, teaching, and practice since its founding in 2020.
   
+
   - block: markdown
     content:
-      # title: Lab Introduction Video
-      # subtitle: Watch our research in action
+      title: "Imitation Learning"
+      subtitle: ""
       text: |
-        <div style="text-align: center; margin: 2rem 0;">
-          <video width="100%" height="auto" controls style="max-width: 800px; border-radius: 8px;">
-            <source src="videos/rby1_1.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
+        <div style="display: flex; justify-content: center; gap: 20px; margin: 2rem 0;">
+          <div style="text-align: center;">
+            <video width="100%" height="auto" controls autoplay muted loop preload="auto" style="max-width: 400px; border-radius: 8px;">
+              <source src="videos/rby1_2.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+          <div style="text-align: center;">
+            <video width="100%" height="auto" controls autoplay muted loop preload="auto" style="max-width: 800px; border-radius: 8px;">
+              <source src="videos/rby1_1.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
         </div>
-        
-        <p style="text-align: center; font-style: italic; color: #666;">
-          Watch our latest research demonstrations and lab activities
-        </p>
-    design:
-      columns: '1'
-      spacing:
-        padding: ['40px', '0', '40px', '0']
-  
+
   - block: markdown
     content:
       title: ""
       subtitle: ""
       text: |
-        <div style="text-align: center; margin: 2rem 0;">
-          <video width="100%" height="auto" controls style="max-width: 800px; border-radius: 8px;">
-            <source src="videos/rby1_2.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-        </div>
-        
-    design:
-      columns: '1'
-      spacing:
-        padding: ['40px', '0', '40px', '0']
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
+          <div style="text-align: center;">
+            <img src="/canine/canine1.png" alt="첫 번째 이미지" width="500" style="border-radius: 8px;">
+          </div>
+          <div style="text-align: center;">
+            <img src="/canine/canine3.png" alt="두 번째 이미지" width="500" style="border-radius: 8px;">
+          </div>
+          <div style="text-align: center;">
+            <img src="/canine/canine1.png" alt="세 번째 이미지" width="500" style="border-radius: 8px;">
+          </div>
+          <div style="text-align: center;">
+            <img src="/canine/canine3.png" alt="네 번째 이미지" width="500" style="border-radius: 8px;">
   
-  # - block: markdown
-  #   content:
-  #     title: Research Areas
-  #     subtitle: Our Key Research Domains
-  #   design:
-  #     columns: '2'  # 2개 컬럼으로 설정
-  #     spacing:
-  #       padding: ['20px', '0', '20px', '0']
 
   # 첫 번째 슬라이더
   - block: slider
     content:
       slides:
-        - title: "3D Vision"
-          content: "Computer Vision & Perception"
+        - title: ""
+          content: ""
           align: center
           background:
             image:
               filename: canine/canine2.jpg
+              fit: contain
               filters:
-                brightness: 0.7
+                brightness: 1.0
             position: center
-        - title: "Robotics"
-          content: "Locomotion & Control"
+        - title: ""
+          content: ""
           align: center
           background:
             image:
               filename: canine/canine3.png
+              fit: contain
               filters:
-                brightness: 0.6
-            position: right
+                brightness: 1.0
+            position: center
     design:
       is_fullscreen: false
       slide_height: '60vh'
