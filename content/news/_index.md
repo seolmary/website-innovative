@@ -12,7 +12,7 @@ sections:
       text: |
         <div style="display: flex; align-items: center; margin-bottom: 2rem;">
           <div style="flex: 0 0 200px; margin-right: 2rem;">
-            <img src="news/guide-dog-robot.png" alt="Guide Dog Robot" style="width: 100%; height: auto; border-radius: 8px;">
+            <img src="/news/guide-dog-robot.png" alt="Guide Dog Robot" style="width: 100%; height: auto; border-radius: 8px;">
           </div>
           <div style="flex: 1;">
             <h3 style="margin-top: 0; color: #005baa;">[2023. 01. 01] 가이드 독: 로봇 안내견 개발 과제 시작</h3>
@@ -28,7 +28,7 @@ sections:
       text: |
         <div style="display: flex; align-items: center; margin-bottom: 2rem;">
           <div style="flex: 0 0 200px; margin-right: 2rem;">
-            <img src="news/award-ceremony.jpg" alt="Award Ceremony" style="width: 100%; height: auto; border-radius: 8px;">
+            <img src="/news/award-ceremony.jpg" alt="Award Ceremony" style="width: 100%; height: auto; border-radius: 8px;">
           </div>
           <div style="flex: 1;">
             <h3 style="margin-top: 0; color: #005baa;">[2022. 11. 25] 한국연구재단 이사장 상 수상</h3>
@@ -40,7 +40,7 @@ sections:
 
         <div style="display: flex; align-items: center; margin-bottom: 2rem;">
           <div style="flex: 0 0 200px; margin-right: 2rem;">
-            <img src="news/group-photo-2022.jpg" alt="New Group Photo" style="width: 100%; height: auto; border-radius: 8px;">
+            <img src="/news/group-photo-2022.jpg" alt="New Group Photo" style="width: 100%; height: auto; border-radius: 8px;">
           </div>
           <div style="flex: 1;">
             <h3 style="margin-top: 0; color: #005baa;">[2022. 7. 01] New Group Photo</h3>
@@ -51,7 +51,7 @@ sections:
 
         <div style="display: flex; align-items: center; margin-bottom: 2rem;">
           <div style="flex: 0 0 200px; margin-right: 2rem;">
-            <img src="news/motion-capture.jpg" alt="Motion Capture Device" style="width: 100%; height: auto; border-radius: 8px;">
+            <img src="/news/motion-capture.jpg" alt="Motion Capture Device" style="width: 100%; height: auto; border-radius: 8px;">
           </div>
           <div style="flex: 1;">
             <h3 style="margin-top: 0; color: #005baa;">[2022. 4. 01] Motion Capture Device</h3>
@@ -62,7 +62,7 @@ sections:
 
         <div style="display: flex; align-items: center; margin-bottom: 2rem;">
           <div style="flex: 0 0 200px; margin-right: 2rem;">
-            <img src="news/graduation-2022.jpg" alt="Graduation 2022" style="width: 100%; height: auto; border-radius: 8px;">
+            <img src="/news/graduation-2022.jpg" alt="Graduation 2022" style="width: 100%; height: auto; border-radius: 8px;">
           </div>
           <div style="flex: 1;">
             <h3 style="margin-top: 0; color: #005baa;">[2022. 2. 25] (축)황성현, 이승현 석사 졸업</h3>
@@ -77,7 +77,7 @@ sections:
       text: |
         <div style="display: flex; align-items: center; margin-bottom: 2rem;">
           <div style="flex: 0 0 200px; margin-right: 2rem;">
-            <img src="news/capstone-award.jpg" alt="Capstone Design Award" style="width: 100%; height: auto; border-radius: 8px;">
+            <img src="/news/capstone-award.jpg" alt="Capstone Design Award" style="width: 100%; height: auto; border-radius: 8px;">
           </div>
           <div style="flex: 1;">
             <h3 style="margin-top: 0; color: #005baa;">[2021. 12. 27] 2021년 부산대학교 Linc+ 캡스톤디자인 대회 대상</h3>
@@ -90,7 +90,7 @@ sections:
 
         <div style="display: flex; align-items: center; margin-bottom: 2rem;">
           <div style="flex: 0 0 200px; margin-right: 2rem;">
-            <img src="news/arc-competition.jpg" alt="ARC Competition Win" style="width: 100%; height: auto; border-radius: 8px;">
+            <img src="/news/arc-competition.jpg" alt="ARC Competition Win" style="width: 100%; height: auto; border-radius: 8px;">
           </div>
           <div style="flex: 1;">
             <h3 style="margin-top: 0; color: #005baa;">[2021. 10. 29] Winning @ARC Competition!</h3>
@@ -104,7 +104,7 @@ sections:
 
         <div style="display: flex; align-items: center; margin-bottom: 2rem;">
           <div style="flex: 0 0 200px; margin-right: 2rem;">
-            <img src="news/new-lab-space.png" alt="New Laboratory Space" style="width: 100%; height: auto; border-radius: 8px;">
+            <img src="/news/new-lab-space.png" alt="New Laboratory Space" style="width: 100%; height: auto; border-radius: 8px;">
           </div>
           <div style="flex: 1;">
             <h3 style="margin-top: 0; color: #005baa;">[2021. 10. 05] We've got a new Laboratory space!</h3>
@@ -116,7 +116,7 @@ sections:
 
         <div style="display: flex; align-items: center; margin-bottom: 2rem;">
           <div style="flex: 0 0 200px; margin-right: 2rem;">
-            <img src="news/policelab-project.png" alt="PoliceLab 2.0 Project" style="width: 100%; height: auto; border-radius: 8px;">
+            <img src="/news/policelab-project.png" alt="PoliceLab 2.0 Project" style="width: 100%; height: auto; border-radius: 8px;">
           </div>
           <div style="flex: 1;">
             <h3 style="margin-top: 0; color: #005baa;">[2021. 07. 16] Our group is selected for PoliceLab 2.0 Project</h3>
@@ -131,7 +131,7 @@ sections:
 
         <div style="display: flex; align-items: center; margin-bottom: 2rem;">
           <div style="flex: 0 0 200px; margin-right: 2rem;">
-            <img src="news/nrf-grant.png" alt="Facility Grant" style="width: 100%; height: auto; border-radius: 8px;">
+            <img src="/news/nrf-grant.png" alt="Facility Grant" style="width: 100%; height: auto; border-radius: 8px;">
           </div>
           <div style="flex: 1;">
             <h3 style="margin-top: 0; color: #005baa;">[2021. 06. 28] Our group won an additional research grant for the facility</h3>
@@ -144,7 +144,7 @@ sections:
 
         <div style="display: flex; align-items: center; margin-bottom: 2rem;">
           <div style="flex: 0 0 200px; margin-right: 2rem;">
-            <img src="news/nrf-grant.png" alt="NRF Research Grant" style="width: 100%; height: auto; border-radius: 8px;">
+            <img src="/news/nrf-grant.png" alt="NRF Research Grant" style="width: 100%; height: auto; border-radius: 8px;">
           </div>
           <div style="flex: 1;">
             <h3 style="margin-top: 0; color: #005baa;">[2021. 02. 21] Our group won a research grant</h3>
@@ -162,7 +162,7 @@ sections:
       text: |
         <div style="display: flex; align-items: center; margin-bottom: 2rem;">
           <div style="flex: 0 0 200px; margin-right: 2rem;">
-            <img src="news/InhoLee.jpg" alt="Inho Lee Joining PNU" style="width: 100%; height: auto; border-radius: 8px;">
+            <img src="/news/InhoLee.jpg" alt="Inho Lee Joining PNU" style="width: 100%; height: auto; border-radius: 8px;">
           </div>
           <div style="flex: 1;">
             <h3 style="margin-top: 0; color: #005baa;">[2020. 09. 01] Inho Lee joined Pusan National University</h3>
