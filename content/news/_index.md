@@ -12,7 +12,7 @@ sections:
       text: |
         <div style="display: flex; align-items: center; margin-bottom: 2rem;">
           <div style="flex: 0 0 200px; margin-right: 2rem;">
-            <img src="/news/guide-dog-robot.png" alt="Guide Dog Robot" style="width: 100%; height: auto; border-radius: 8px;">
+            <img src="news_images/guide-dog-robot.png" alt="Guide Dog Robot" style="width: 100%; height: auto; border-radius: 8px;">
           </div>
           <div style="flex: 1;">
             <h3 style="margin-top: 0; color: #005baa;">[2023. 01. 01] 가이드 독: 로봇 안내견 개발 과제 시작</h3>
