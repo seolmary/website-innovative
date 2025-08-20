@@ -48,16 +48,16 @@ sections:
       text: |
         <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 2rem 0; max-width: 1200px; margin-left: auto; margin-right: auto;">
           <div style="text-align: center;">
-            <img src="images/canine/canine1.png" alt="첫 번째 이미지" width="500" style="border-radius: 8px;">
+            <img src="/canine/canine1.png" alt="첫 번째 이미지" width="500" style="border-radius: 8px;">
           </div>
           <div style="text-align: center;">
-            <img src="images/canine/canine3.png" alt="두 번째 이미지" width="500" style="border-radius: 8px;">
+            <img src="/canine/canine3.png" alt="두 번째 이미지" width="500" style="border-radius: 8px;">
           </div>
           <div style="text-align: center;">
-            <img src="images/canine/canine1.png" alt="세 번째 이미지" width="500" style="border-radius: 8px;">
+            <img src="/canine/canine1.png" alt="세 번째 이미지" width="500" style="border-radius: 8px;">
           </div>
           <div style="text-align: center;">
-            <img src="images/canine/canine3.png" alt="네 번째 이미지" width="500" style="border-radius: 8px;">
+            <img src="/canine/canine3.png" alt="네 번째 이미지" width="500" style="border-radius: 8px;">
   
 
   # 첫 번째 슬라이더
