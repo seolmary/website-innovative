@@ -22,6 +22,7 @@ sections:
   
 
   - block: markdown
+    id: imitation-learning
     content:
       title: "Imitation Learning"
       subtitle: ""
@@ -42,6 +43,7 @@ sections:
         </div>
 
   - block: markdown
+    id: perceptive-locomotion
     content:
       title: "Perceptive Locomotion"
       subtitle: ""
@@ -56,6 +58,7 @@ sections:
         </div>
 
   - block: markdown
+    id: reinforcement-learning
     content:
       title: "Reinforcement Learning"
       subtitle: ""
